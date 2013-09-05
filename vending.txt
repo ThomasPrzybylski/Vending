@@ -1,0 +1,260 @@
+1
+Name:                Coke
+Catagory:            Drink
+Cost:                1.75
+Calories:            120
+Total Fat:           0
+Saturated Fat:       0
+Unsaturated Fat:     0
+Total Carbohydrates: 12
+Sugars:              12
+Fiber:               0
+Protien:             0
+Count:               0
+2
+Name:                Root Beer
+Catagory:            Drink
+Cost:                1.75
+Calories:            120
+Total Fat:           0
+Saturated Fat:       0
+Unsaturated Fat:     0
+Total Carbohydrates: 12
+Sugars:              12
+Fiber:               0
+Protien:             0
+Count:               0
+3
+Name:                MoutainDew
+Catagory:            Drink
+Cost:                1.75
+Calories:            120
+Total Fat:           0
+Saturated Fat:       0
+Unsaturated Fat:     0
+Total Carbohydrates: 12
+Sugars:              12
+Fiber:               0
+Protien:             0
+Count:               0
+4
+Name:                Pepsi
+Catagory:            Drink
+Cost:                1.75
+Calories:            120
+Total Fat:           0
+Saturated Fat:       0
+Unsaturated Fat:     0
+Total Carbohydrates: 12
+Sugars:              12
+Fiber:               0
+Protien:             0
+Count:               0
+5
+Name:                Sprite
+Catagory:            Drink
+Cost:                1.75
+Calories:            120
+Total Fat:           0
+Saturated Fat:       0
+Unsaturated Fat:     0
+Total Carbohydrates: 12
+Sugars:              12
+Fiber:               0
+Protien:             0
+Count:               0
+6
+Name:                IcedTea
+Catagory:            Drink
+Cost:                1.75
+Calories:            10
+Total Fat:           0
+Saturated Fat:       0
+Unsaturated Fat:     0
+Total Carbohydrates: 1
+Sugars:              1
+Fiber:               0
+Protien:             0
+Count:               0
+7
+Name:                Chips
+Catagory:            Food
+Cost:                2.0
+Calories:            140
+Total Fat:           2
+Saturated Fat:       1
+Unsaturated Fat:     1
+Total Carbohydrates: 12
+Sugars:              12
+Fiber:               0
+Protien:             0
+Count:               0
+8
+Name:                BeefJerky
+Catagory:            Food
+Cost:                1.0
+Calories:            50
+Total Fat:           4
+Saturated Fat:       2
+Unsaturated Fat:     2
+Total Carbohydrates: 0
+Sugars:              0
+Fiber:               0
+Protien:             0
+Count:               12
+9
+Name:                Water
+Catagory:            Drink
+Cost:                1.0
+Calories:            0
+Total Fat:           0
+Saturated Fat:       0
+Unsaturated Fat:     0
+Total Carbohydrates: 0
+Sugars:              0
+Fiber:               0
+Protien:             0
+Count:               0
+10
+Name:                Chetos
+Catagory:            Food
+Cost:                2.0
+Calories:            140
+Total Fat:           2
+Saturated Fat:       1
+Unsaturated Fat:     1
+Total Carbohydrates: 12
+Sugars:              12
+Fiber:               0
+Protien:             0
+Count:               0
+11
+Name:                ChocolateBar
+Catagory:            Food
+Cost:                0.5
+Calories:            60
+Total Fat:           0
+Saturated Fat:       0
+Unsaturated Fat:     0
+Total Carbohydrates: 6
+Sugars:              6
+Fiber:               0
+Protien:             0
+Count:               0
+12
+Name:                BirchBeer
+Catagory:            Drink
+Cost:                1.75
+Calories:            120
+Total Fat:           0
+Saturated Fat:       0
+Unsaturated Fat:     0
+Total Carbohydrates: 12
+Sugars:              12
+Fiber:               0
+Protien:             0
+Count:               0
+13
+Name:                Snickers
+Catagory:            Drink
+Cost:                0.5
+Calories:            60
+Total Fat:           0
+Saturated Fat:       0
+Unsaturated Fat:     0
+Total Carbohydrates: 6
+Sugars:              6
+Fiber:               0
+Protien:             0
+Count:               0
+14
+Name:                Dr.Pepper
+Catagory:            Drink
+Cost:                1.75
+Calories:            120
+Total Fat:           0
+Saturated Fat:       0
+Unsaturated Fat:     0
+Total Carbohydrates: 12
+Sugars:              12
+Fiber:               0
+Protien:             0
+Count:               0
+15
+Name:                LemonLimeSoda
+Catagory:            Drink
+Cost:                1.5
+Calories:            120
+Total Fat:           0
+Saturated Fat:       0
+Unsaturated Fat:     0
+Total Carbohydrates: 12
+Sugars:              12
+Fiber:               0
+Protien:             0
+Count:               0
+16
+Name:                SweetIcedTea
+Catagory:            Drink
+Cost:                1.75
+Calories:            100
+Total Fat:           0
+Saturated Fat:       0
+Unsaturated Fat:     0
+Total Carbohydrates: 10
+Sugars:              10
+Fiber:               0
+Protien:             0
+Count:               0
+17
+Name:                TortillaChips
+Catagory:            Food
+Cost:                2.0
+Calories:            140
+Total Fat:           2
+Saturated Fat:       1
+Unsaturated Fat:     1
+Total Carbohydrates: 12
+Sugars:              12
+Fiber:               0
+Protien:             0
+Count:               0
+18
+Name:                DeerJerky
+Catagory:            Food
+Cost:                1.25
+Calories:            50
+Total Fat:           4
+Saturated Fat:       2
+Unsaturated Fat:     2
+Total Carbohydrates: 0
+Sugars:              0
+Fiber:               0
+Protien:             0
+Count:               12
+19
+Name:                FilteredWater
+Catagory:            Drink
+Cost:                1.0
+Calories:            0
+Total Fat:           0
+Saturated Fat:       0
+Unsaturated Fat:     0
+Total Carbohydrates: 0
+Sugars:              0
+Fiber:               0
+Protien:             0
+Count:               0
+20
+Name:                SpringWater
+Catagory:            Drink
+Cost:                1.0
+Calories:            0
+Total Fat:           0
+Saturated Fat:       0
+Unsaturated Fat:     0
+Total Carbohydrates: 0
+Sugars:              0
+Fiber:               0
+Protien:             0
+Count:               0
